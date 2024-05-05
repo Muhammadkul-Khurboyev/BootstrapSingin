@@ -1,0 +1,13 @@
+.email-input {
+  border-radius: 6px 6px 0 0 !important;
+}
+.password-input {
+  border-radius: 0 0 6px 6px !important;
+}
+.form-consultation {
+  width: 300px;
+  height: 300px;
+  margin-top: 220px;
+}
+
+@import "./bootstrap.scss";
